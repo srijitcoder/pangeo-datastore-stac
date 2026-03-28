@@ -36,6 +36,12 @@
       "type": "application/json",
       "rel": "child",
       "title": "TRACMIP in Pangeo Google Cloud Storage"
+    },
+    {
+      "rel": "child",
+      "href": "./summer/collection.json",
+      "type": "application/json",
+      "title": "summer"
     }
   ]
 }
