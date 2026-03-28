@@ -66,6 +66,12 @@
       "type": "application/json",
       "rel": "child",
       "title": "gap-free 6-hourly surface wind fields"
+    },
+    {
+      "rel": "child",
+      "href": "./sky/collection.json",
+      "type": "application/json",
+      "title": "sky"
     }
   ]
 }
