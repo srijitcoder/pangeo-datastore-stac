@@ -48,6 +48,12 @@
       "type": "application/json",
       "rel": "child",
       "title": "Camels Attributes"
+    },
+    {
+      "rel": "child",
+      "href": "./dfsdfdf/collection.json",
+      "type": "application/json",
+      "title": "dfsdfdf"
     }
   ]
 }
