@@ -54,6 +54,12 @@
       "href": "./dfsdfdf/collection.json",
       "type": "application/json",
       "title": "dfsdfdf"
+    },
+    {
+      "rel": "child",
+      "href": "https://raw.githubusercontent.com/pangeo-data/pangeo-datastore-stac/master/master/hydro/camels/sdfsfds/collection.json",
+      "type": "application/json",
+      "title": "sdfsfds"
     }
   ]
 }
